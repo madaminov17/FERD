@@ -1,0 +1,5 @@
+import FerdoApp from './FerdoApp';
+
+export default function App() {
+  return <FerdoApp />;
+}
